@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 计算机基础课程
+description: test test
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://lewisliu819.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub Repository":
+    - "https://github.com/lewisliu819/coursewebsite"
