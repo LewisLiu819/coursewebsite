@@ -1,35 +1,60 @@
 ---
-title: Home
-layout: home
+title: "小学生计算机基础课程"
+layout: default
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 小学生计算机基础课程
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+专为4~6年级小学生设计的计算机科学入门课程
 
-More specifically, the created site:
+## 课程概述
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+本课程共有15节课，每次课的时长为60分钟，其中20~30分钟用于讲解新知识，剩余时间用于实践练习和问题讨论。课程旨在通过丰富的活动和项目，使学生了解计算机和编程的基础概念，并学会将这些概念运用到现实问题中。
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## 课程大纲
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+1. **什么是计算机科学？** - 计算机及其组成部分、数据和信息的概念
+2. **计算机历史与影响** - 了解计算机的发展历史及其对社会的影响
+3. **程序和算法** - 学习如何将任务分解为步骤，理解算法的概念
+4. **图形化编程入门** - 使用Scratch或Snap!进行简单编程
+5. **顺序、循环和条件语句** - 探索基本的编程逻辑结构
+6. **变量与数据** - 学习如何使用变量和简单数据类型
+7. **事件驱动编程** - 添加互动元素，理解事件和事件处理
+8. **函数与模块化** - 理解函数的概念，将代码分成小块来重复使用
+9. **人工智能基础** - 了解人工智能的基本概念及其应用
+10. **大数据与数据分析入门** - 认识大数据及简单的数据分析方法
+11. **计算机网络与互联网** - 学习互联网的工作原理及安全上网知识
+12. **机器人编程基础** - 控制机器人完成简单任务
+13. **图像与多媒体编程** - 用编程处理图像和声音，制作互动故事
+14. **编程中的调试与问题解决** - 探讨如何找出和修复代码中的错误
+15. **综合项目：科技与创新** - 学生自主设计科技项目并分享作品
 
-To get started with creating a site, simply:
+## 教学方法
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- **互动讲解**：通过生活中的例子帮助学生理解抽象概念。
+- **动手实践**：每节课安排动手练习，确保学生真正掌握所学内容。
+- **合作学习**：学生分组完成项目，培养团队协作能力。
+- **游戏化学习**：通过小游戏和编程挑战，激发学生学习的兴趣。
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## 教学成果
 
-----
+- **计算机科学基础知识**：了解计算机的运作原理，对计算机科学有基本的认知。
+- **编程技能**：学会使用图形化编程工具（如Scratch或Snap!）制作动画、游戏或互动故事。
+- **问题解决能力**：学会将大问题分解为小步骤，逐步解决问题。
+- **团队合作经验**：通过小组项目提升沟通与合作的能力。
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## 课程报名与更多信息
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+如果您对我们的课程感兴趣，欢迎报名加入我们的学习！
+
+- **报名方式**：请访问我们的网站（链接待添加）进行报名。
+- **联系方式**：如果您有任何疑问，请发送邮件至我们的客服邮箱（邮箱地址待添加）。
+
+## 课后练习与资源
+
+每节课后将布置简单的练习任务，帮助学生巩固课堂所学内容。此外，我们还会提供丰富的在线资源，学生可以通过网站访问这些资源以便进行自主学习。
+
+## 我们的目标
+
+我们的目标是通过这门课程让孩子们对计算机科学产生浓厚的兴趣，激发他们探索科技的热情，并为他们未来的学习打下坚实的基础。欢迎大家一起加入计算机科学的奇妙之旅！
