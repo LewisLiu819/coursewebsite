@@ -7,3 +7,11 @@ url: https://lewisliu819.github.io
 aux_links:
   "GitHub Repository":
     - "https://github.com/lewisliu819/coursewebsite"
+
+nav:
+  - title: "主页"
+    url: /
+  - title: "课程反馈"
+    url: /feedback/
+  - title: "关于我自己..."
+    url: /about/
