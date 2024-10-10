@@ -61,7 +61,7 @@ nav_order: 1
 ---
 title: "课程反馈"
 layout: default
-nav_order: 2
+nav_order: 1
 ---
 
 # 
@@ -70,7 +70,7 @@ nav_order: 2
 ---
 title: "个人简介"
 layout: default
-nav_order: 3
+nav_order: 1
 ---
 
 # 
