@@ -1,17 +1,23 @@
-title: 计算机基础课程
-description: test test
-theme: just-the-docs
+title: COMPSCI 0.10
+description: ""
+url: "https://lewisliu819.github.io/jdtest/" # the base hostname & protocol for your site, e.g. http://example.com
+repository: lewisliu819/jdtest # for github-metadata
 
-url: https://lewisliu819.github.io
+permalink: pretty
 
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+
+theme: "just-the-docs"
+nav_enabled: true
+
+search_enabled: true
 aux_links:
-  "GitHub Repository":
-    - "https://github.com/lewisliu819/coursewebsite"
-
-nav:
-  - title: "主页"
-    url: /
-  - title: "课程反馈"
-    url: /feedback/
-  - title: "关于我自己..."
-    url: /about/
+  "GitHub":
+    - "https://github.com/jdtest"
+show_topnav: true
